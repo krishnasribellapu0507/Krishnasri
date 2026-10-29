@@ -1,0 +1,12 @@
+Anime avatar: VRM1_Constraint_Twist_Sample v1.0.1
+Copyright (c) 2022 pixiv Inc.
+Source: https://github.com/pixiv/three-vrm/blob/dev/packages/three-vrm/examples/models/VRM1_Constraint_Twist_Sample.vrm
+License: VRM Public License 1.0, https://vrm.dev/licenses/1.0/
+Embedded author settings permit avatar use by everyone, commercial use by corporations, redistribution, and modifications with redistribution. Credit notation is marked unnecessary. The original model and its metadata are retained. Runtime changes: clothing color tint and procedural movement animation.
+Renderer: Three.js (MIT), @pixiv/three-vrm (MIT). License notices in ../vendor/.
+
+Ferrari 458 Italia sports-car model: vicent091036.
+Source: https://sketchfab.com/models/57bf6cc56931426e87494f554df1dab6
+Distributed via the Three.js car-materials example, CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Adaptations: paint/materials, scale, orientation, interactive driving. No manufacturer affiliation.
+Grass texture sourced from the Three.js terrain example assets.

@@ -1,0 +1,9 @@
+{
+  "name": "rosebay-portfolio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node preview.mjs",
+    "test": "node --test tests/character.test.mjs tests/traffic.test.mjs"
+  }
+}
